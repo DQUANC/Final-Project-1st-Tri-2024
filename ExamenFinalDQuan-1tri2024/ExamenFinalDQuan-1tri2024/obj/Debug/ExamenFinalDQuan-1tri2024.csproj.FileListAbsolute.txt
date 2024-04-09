@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\bin\Debug\ExamenFinalDQuan-1tri2024.exe.config
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\bin\Debug\ExamenFinalDQuan-1tri2024.exe
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\bin\Debug\ExamenFinalDQuan-1tri2024.pdb
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan-1tri2024.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan_1tri2024.Form1.resources
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan_1tri2024.Properties.Resources.resources
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan-1tri2024.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan-1tri2024.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan-1tri2024.exe
+C:\Users\daniq\Documents\UDEO\Progra\Projects\ExamenFinalDQuan-1tri2024\ExamenFinalDQuan-1tri2024\obj\Debug\ExamenFinalDQuan-1tri2024.pdb
